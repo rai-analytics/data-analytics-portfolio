@@ -5,13 +5,27 @@
 
 ## 👋 About Me
 
-I am a career switcher transitioning from Marketing & QSR Operations into Data Analytics. 
-With a hard deadline of **August–September 2026**, I am building this portfolio to demonstrate 
-real, hands-on analytical skills to employers and freelance clients in Pakistan and internationally.
+**Hello! I'm Rai Abdul Rehman.**
 
-**Background:** BBA in Marketing | 2 years QSR Operations | Zero prior coding experience → Building from scratch.
+I am a BBA Marketing Graduate (University of Education, Lahore, May 2026) specializing in commercial data analytics, payments unit economics, and corporate financial modeling. 
 
-**Tools I am learning:** Excel · Power BI · SQL · Python · GitHub
+---
+
+### 💡 Why is a Marketing Graduate in Commercial Analytics?
+> *Because numbers tell you **what** is happening, but marketing strategy tells you **why**.*
+> 
+> Most analysts focus purely on dry code and database queries. My BBA background allows me to see the customer growth drivers behind the unit economics. I don’t just calculate card fees, payback periods, and LTV:CAC ratios—I understand the pricing psychology, promotional mechanics, and brand equity defense that drive those numbers in the first place. I bridge the gap between technical data modeling and real commercial strategy.
+
+---
+
+### 🛠️ Operational Grit Meets Technical Analysis
+Rather than viewing data in a vacuum, I bridge my analytical skills with deep, front-line operational experience. Having managed delivery dispatch logistics at McDonald’s, supervised high-velocity transaction flows (200+ peak-hour orders) at Burger O'Clock, and audited retail stock metrics at Cakes & Bakes, I don’t just model data—I understand the real-world customer behaviors, billing reconciliations, and cash-flow bottlenecks behind it.
+
+I leverage Advanced Excel (`VLOOKUP`, `SUMPRODUCT`, tiered cost models), Power BI, and Python to translate complex datasets into simple, C-suite ready commercial insights.
+
+*   **🎓 Academic Background:** Bachelor of Business Administration (BBA) — Marketing | Graduated May 2026
+*   **💳 Payment Economics Focus:** Volume-tiered card acceptance fees, quoted gross FX spreads, operational leakage waterfalls (FX slippage, promo waivers, failed gateway fees), and customer LTV:CAC modeling.
+*   **🛠️ Technical Toolbox:** Advanced Excel, Power BI (interactive dashboard design), Python (pandas, openpyxl, data pipelines), and MySQL.
 
 ---
 
