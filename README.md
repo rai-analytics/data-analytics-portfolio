@@ -60,6 +60,13 @@ I leverage Advanced Excel (`VLOOKUP`, `SUMPRODUCT`, tiered cost models), Power B
 ## 🔴 03 — Advanced
 > *End-to-end commercial analytics & fintech deliverables*
 
+### [🔥 Live GA4 E-Commerce Performance Dashboard (Click Here)](#) 
+> **Tools:** Google Analytics 4 (GA4) · Looker Studio · Data Blending  
+> *   Designed a real-time **Performance Marketing Dashboard** extracting raw GA4 e-commerce data.
+> *   Built a **Campaign ROI & Conversion Tracker** isolating revenue per active campaign to optimize ad spend.
+> *   Developed a **Traffic Overview Matrix** monitoring Sessions, Bounce Rates, and Active Users across all channels.
+> *   Applied a unified professional corporate UI theme to transform raw analytics into a C-suite ready visual presentation.
+
 ### [Remittance Payment Economics Model](./03_Advanced/Payment_Economics_Model.xlsx)
 > **Tools:** Advanced Excel (VLOOKUP, SUMPRODUCT, sensitivity stress-testing) · Python (numpy, data modeling)  
 > *   Designed a professional payments model for a fintech remittance context, specifically modeled on **ACE Money Transfer's** international UK/Europe-to-Pakistan corridors (GBP-PKR, USD-PKR, EUR-PKR).
